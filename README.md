@@ -1,1 +1,1 @@
-Bash-Skripte für Nextcloud 
+Bash-Skripte für Wartung meiner Nextcloud-Instanz
